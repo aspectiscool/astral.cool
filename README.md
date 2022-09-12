@@ -4,4 +4,4 @@ Astral is a now-defunct file hosting platform developed by me (Daniel) from Octo
 
 ---
 
-The reason this repository stands as forked is due to the original deletion of the primary organization that stored the original repo. Authenticity can be attested to by the original commits still standing.
+The reason this repository stands as forked is due to the original deletion of the primary organization that stored the original repo. Authenticity can (sort of) be attested to by the original commits still standing.
